@@ -19,9 +19,14 @@
     - **grep** - findstr
     - **vs** - Visual Studio 2022
     - **k** - kubectl
+    - **gpu** - git pull --rebase
+    - **gs** - git push
+    - **ga** - git add .
+    - **gac** - git add . && git commit
     - **g** - git
     - **vim**
     - **which** - where
+    - **d** - docker
 
 ### Arquivo vpn.ps1
 
