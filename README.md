@@ -23,6 +23,7 @@
     - **gs** - git push
     - **ga** - git add .
     - **gac** - git add . && git commit
+    - **gst** - git status
     - **g** - git
     - **vim**
     - **which** - where
