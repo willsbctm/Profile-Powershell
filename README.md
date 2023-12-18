@@ -14,6 +14,7 @@
     - **vpn-setup** - conecta na vpn + resolve conflito
     - **vpn-connect** - conecta na vpn
     - **vpn-disconnect** - desconecta da vpn
+    - **edge** - open edge browser using default profile
 
 - Alias:
     - **grep** - findstr
